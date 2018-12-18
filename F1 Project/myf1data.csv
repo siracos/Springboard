@@ -1,0 +1,244 @@
+Posittion,RaceName,SeasonYear,RaceNumber,RaceDate,DriverFirstName,DriverLastName,DriverID,StartingGridNumb,ConstructorName
+1,Australian Grand Prix,2015,1,2015-03-15,Lewis,Hamilton,hamilton,1,Mercedes
+1,Malaysian Grand Prix,2015,2,2015-03-29,Sebastian,Vettel,vettel,2,Ferrari
+1,Chinese Grand Prix,2015,3,2015-04-12,Lewis,Hamilton,hamilton,1,Mercedes
+1,Bahrain Grand Prix,2015,4,2015-04-19,Lewis,Hamilton,hamilton,1,Mercedes
+1,Spanish Grand Prix,2015,5,2015-05-10,Nico,Rosberg,rosberg,1,Mercedes
+1,Monaco Grand Prix,2015,6,2015-05-24,Nico,Rosberg,rosberg,2,Mercedes
+1,Canadian Grand Prix,2015,7,2015-06-07,Lewis,Hamilton,hamilton,1,Mercedes
+1,Austrian Grand Prix,2015,8,2015-06-21,Nico,Rosberg,rosberg,2,Mercedes
+1,British Grand Prix,2015,9,2015-07-05,Lewis,Hamilton,hamilton,1,Mercedes
+1,Hungarian Grand Prix,2015,10,2015-07-26,Sebastian,Vettel,vettel,3,Ferrari
+1,Belgian Grand Prix,2015,11,2015-08-23,Lewis,Hamilton,hamilton,1,Mercedes
+1,Italian Grand Prix,2015,12,2015-09-06,Lewis,Hamilton,hamilton,1,Mercedes
+1,Singapore Grand Prix,2015,13,2015-09-20,Sebastian,Vettel,vettel,1,Ferrari
+1,Japanese Grand Prix,2015,14,2015-09-27,Lewis,Hamilton,hamilton,2,Mercedes
+1,Russian Grand Prix,2015,15,2015-10-11,Lewis,Hamilton,hamilton,2,Mercedes
+1,United States Grand Prix,2015,16,2015-10-25,Lewis,Hamilton,hamilton,2,Mercedes
+1,Mexican Grand Prix,2015,17,2015-11-01,Nico,Rosberg,rosberg,1,Mercedes
+1,Brazilian Grand Prix,2015,18,2015-11-15,Nico,Rosberg,rosberg,1,Mercedes
+1,Abu Dhabi Grand Prix,2015,19,2015-11-29,Nico,Rosberg,rosberg,1,Mercedes
+1,Australian Grand Prix,2016,1,2016-03-20,Nico,Rosberg,rosberg,2,Mercedes
+1,Bahrain Grand Prix,2016,2,2016-04-03,Nico,Rosberg,rosberg,2,Mercedes
+1,Chinese Grand Prix,2016,3,2016-04-17,Nico,Rosberg,rosberg,1,Mercedes
+1,Russian Grand Prix,2016,4,2016-05-01,Nico,Rosberg,rosberg,1,Mercedes
+1,Spanish Grand Prix,2016,5,2016-05-15,Max,Verstappen,max_verstappen,4,Red Bull
+1,Monaco Grand Prix,2016,6,2016-05-29,Lewis,Hamilton,hamilton,3,Mercedes
+1,Canadian Grand Prix,2016,7,2016-06-12,Lewis,Hamilton,hamilton,1,Mercedes
+1,European Grand Prix,2016,8,2016-06-19,Nico,Rosberg,rosberg,1,Mercedes
+1,Austrian Grand Prix,2016,9,2016-07-03,Lewis,Hamilton,hamilton,1,Mercedes
+1,British Grand Prix,2016,10,2016-07-10,Lewis,Hamilton,hamilton,1,Mercedes
+1,Hungarian Grand Prix,2016,11,2016-07-24,Lewis,Hamilton,hamilton,2,Mercedes
+1,German Grand Prix,2016,12,2016-07-31,Lewis,Hamilton,hamilton,2,Mercedes
+1,Belgian Grand Prix,2016,13,2016-08-28,Nico,Rosberg,rosberg,1,Mercedes
+1,Italian Grand Prix,2016,14,2016-09-04,Nico,Rosberg,rosberg,2,Mercedes
+1,Singapore Grand Prix,2016,15,2016-09-18,Nico,Rosberg,rosberg,1,Mercedes
+1,Malaysian Grand Prix,2016,16,2016-10-02,Daniel,Ricciardo,ricciardo,4,Red Bull
+1,Japanese Grand Prix,2016,17,2016-10-09,Nico,Rosberg,rosberg,1,Mercedes
+1,United States Grand Prix,2016,18,2016-10-23,Lewis,Hamilton,hamilton,1,Mercedes
+1,Mexican Grand Prix,2016,19,2016-10-30,Lewis,Hamilton,hamilton,1,Mercedes
+1,Brazilian Grand Prix,2016,20,2016-11-13,Lewis,Hamilton,hamilton,1,Mercedes
+1,Abu Dhabi Grand Prix,2016,21,2016-11-27,Lewis,Hamilton,hamilton,1,Mercedes
+1,Australian Grand Prix,2017,1,2017-03-26,Sebastian,Vettel,vettel,2,Ferrari
+1,Chinese Grand Prix,2017,2,2017-04-09,Lewis,Hamilton,hamilton,1,Mercedes
+1,Bahrain Grand Prix,2017,3,2017-04-16,Sebastian,Vettel,vettel,3,Ferrari
+1,Russian Grand Prix,2017,4,2017-04-30,Valtteri,Bottas,bottas,3,Mercedes
+1,Spanish Grand Prix,2017,5,2017-05-14,Lewis,Hamilton,hamilton,1,Mercedes
+1,Monaco Grand Prix,2017,6,2017-05-28,Sebastian,Vettel,vettel,2,Ferrari
+1,Canadian Grand Prix,2017,7,2017-06-11,Lewis,Hamilton,hamilton,1,Mercedes
+1,Azerbaijan Grand Prix,2017,8,2017-06-25,Daniel,Ricciardo,ricciardo,10,Red Bull
+1,Austrian Grand Prix,2017,9,2017-07-09,Valtteri,Bottas,bottas,1,Mercedes
+1,British Grand Prix,2017,10,2017-07-16,Lewis,Hamilton,hamilton,1,Mercedes
+1,Hungarian Grand Prix,2017,11,2017-07-30,Sebastian,Vettel,vettel,1,Ferrari
+1,Belgian Grand Prix,2017,12,2017-08-27,Lewis,Hamilton,hamilton,1,Mercedes
+1,Italian Grand Prix,2017,13,2017-09-03,Lewis,Hamilton,hamilton,1,Mercedes
+1,Singapore Grand Prix,2017,14,2017-09-17,Lewis,Hamilton,hamilton,5,Mercedes
+1,Malaysian Grand Prix,2017,15,2017-10-01,Max,Verstappen,max_verstappen,3,Red Bull
+1,Japanese Grand Prix,2017,16,2017-10-08,Lewis,Hamilton,hamilton,1,Mercedes
+1,United States Grand Prix,2017,17,2017-10-22,Lewis,Hamilton,hamilton,1,Mercedes
+1,Mexican Grand Prix,2017,18,2017-10-29,Max,Verstappen,max_verstappen,2,Red Bull
+1,Brazilian Grand Prix,2017,19,2017-11-12,Sebastian,Vettel,vettel,2,Ferrari
+1,Abu Dhabi Grand Prix,2017,20,2017-11-26,Valtteri,Bottas,bottas,1,Mercedes
+1,Australian Grand Prix,2018,1,2018-03-25,Sebastian,Vettel,vettel,3,Ferrari
+1,Bahrain Grand Prix,2018,2,2018-04-08,Sebastian,Vettel,vettel,1,Ferrari
+1,Chinese Grand Prix,2018,3,2018-04-15,Daniel,Ricciardo,ricciardo,6,Red Bull
+1,Azerbaijan Grand Prix,2018,4,2018-04-29,Lewis,Hamilton,hamilton,2,Mercedes
+1,Spanish Grand Prix,2018,5,2018-05-13,Lewis,Hamilton,hamilton,1,Mercedes
+1,Monaco Grand Prix,2018,6,2018-05-27,Daniel,Ricciardo,ricciardo,1,Red Bull
+1,Canadian Grand Prix,2018,7,2018-06-10,Sebastian,Vettel,vettel,1,Ferrari
+1,French Grand Prix,2018,8,2018-06-24,Lewis,Hamilton,hamilton,1,Mercedes
+1,Austrian Grand Prix,2018,9,2018-07-01,Max,Verstappen,max_verstappen,4,Red Bull
+1,British Grand Prix,2018,10,2018-07-08,Sebastian,Vettel,vettel,2,Ferrari
+1,German Grand Prix,2018,11,2018-07-22,Lewis,Hamilton,hamilton,14,Mercedes
+1,Hungarian Grand Prix,2018,12,2018-07-29,Lewis,Hamilton,hamilton,1,Mercedes
+1,Belgian Grand Prix,2018,13,2018-08-26,Sebastian,Vettel,vettel,2,Ferrari
+1,Italian Grand Prix,2018,14,2018-09-02,Lewis,Hamilton,hamilton,3,Mercedes
+1,Singapore Grand Prix,2018,15,2018-09-16,Lewis,Hamilton,hamilton,1,Mercedes
+1,Russian Grand Prix,2018,16,2018-09-30,Lewis,Hamilton,hamilton,2,Mercedes
+1,Japanese Grand Prix,2018,17,2018-10-07,Lewis,Hamilton,hamilton,1,Mercedes
+1,United States Grand Prix,2018,18,2018-10-21,Kimi,Räikkönen,raikkonen,2,Ferrari
+1,Mexican Grand Prix,2018,19,2018-10-28,Max,Verstappen,max_verstappen,2,Red Bull
+1,Brazilian Grand Prix,2018,20,2018-11-11,Lewis,Hamilton,hamilton,1,Mercedes
+1,Abu Dhabi Grand Prix,2018,21,2018-11-25,Lewis,Hamilton,hamilton,1,Mercedes
+2,Australian Grand Prix,2015,1,2015-03-15,Nico,Rosberg,rosberg,2,Mercedes
+2,Malaysian Grand Prix,2015,2,2015-03-29,Lewis,Hamilton,hamilton,1,Mercedes
+2,Chinese Grand Prix,2015,3,2015-04-12,Nico,Rosberg,rosberg,2,Mercedes
+2,Bahrain Grand Prix,2015,4,2015-04-19,Kimi,Räikkönen,raikkonen,4,Ferrari
+2,Spanish Grand Prix,2015,5,2015-05-10,Lewis,Hamilton,hamilton,2,Mercedes
+2,Monaco Grand Prix,2015,6,2015-05-24,Sebastian,Vettel,vettel,3,Ferrari
+2,Canadian Grand Prix,2015,7,2015-06-07,Nico,Rosberg,rosberg,2,Mercedes
+2,Austrian Grand Prix,2015,8,2015-06-21,Lewis,Hamilton,hamilton,1,Mercedes
+2,British Grand Prix,2015,9,2015-07-05,Nico,Rosberg,rosberg,2,Mercedes
+2,Hungarian Grand Prix,2015,10,2015-07-26,Daniil,Kvyat,kvyat,7,Red Bull
+2,Belgian Grand Prix,2015,11,2015-08-23,Nico,Rosberg,rosberg,2,Mercedes
+2,Italian Grand Prix,2015,12,2015-09-06,Sebastian,Vettel,vettel,3,Ferrari
+2,Singapore Grand Prix,2015,13,2015-09-20,Daniel,Ricciardo,ricciardo,2,Red Bull
+2,Japanese Grand Prix,2015,14,2015-09-27,Nico,Rosberg,rosberg,1,Mercedes
+2,Russian Grand Prix,2015,15,2015-10-11,Sebastian,Vettel,vettel,4,Ferrari
+2,United States Grand Prix,2015,16,2015-10-25,Nico,Rosberg,rosberg,1,Mercedes
+2,Mexican Grand Prix,2015,17,2015-11-01,Lewis,Hamilton,hamilton,2,Mercedes
+2,Brazilian Grand Prix,2015,18,2015-11-15,Lewis,Hamilton,hamilton,2,Mercedes
+2,Abu Dhabi Grand Prix,2015,19,2015-11-29,Lewis,Hamilton,hamilton,2,Mercedes
+2,Australian Grand Prix,2016,1,2016-03-20,Lewis,Hamilton,hamilton,1,Mercedes
+2,Bahrain Grand Prix,2016,2,2016-04-03,Kimi,Räikkönen,raikkonen,4,Ferrari
+2,Chinese Grand Prix,2016,3,2016-04-17,Sebastian,Vettel,vettel,4,Ferrari
+2,Russian Grand Prix,2016,4,2016-05-01,Lewis,Hamilton,hamilton,10,Mercedes
+2,Spanish Grand Prix,2016,5,2016-05-15,Kimi,Räikkönen,raikkonen,5,Ferrari
+2,Monaco Grand Prix,2016,6,2016-05-29,Daniel,Ricciardo,ricciardo,1,Red Bull
+2,Canadian Grand Prix,2016,7,2016-06-12,Sebastian,Vettel,vettel,3,Ferrari
+2,European Grand Prix,2016,8,2016-06-19,Sebastian,Vettel,vettel,3,Ferrari
+2,Austrian Grand Prix,2016,9,2016-07-03,Max,Verstappen,max_verstappen,8,Red Bull
+2,British Grand Prix,2016,10,2016-07-10,Max,Verstappen,max_verstappen,3,Red Bull
+2,Hungarian Grand Prix,2016,11,2016-07-24,Nico,Rosberg,rosberg,1,Mercedes
+2,German Grand Prix,2016,12,2016-07-31,Daniel,Ricciardo,ricciardo,3,Red Bull
+2,Belgian Grand Prix,2016,13,2016-08-28,Daniel,Ricciardo,ricciardo,5,Red Bull
+2,Italian Grand Prix,2016,14,2016-09-04,Lewis,Hamilton,hamilton,1,Mercedes
+2,Singapore Grand Prix,2016,15,2016-09-18,Daniel,Ricciardo,ricciardo,2,Red Bull
+2,Malaysian Grand Prix,2016,16,2016-10-02,Max,Verstappen,max_verstappen,3,Red Bull
+2,Japanese Grand Prix,2016,17,2016-10-09,Max,Verstappen,max_verstappen,3,Red Bull
+2,United States Grand Prix,2016,18,2016-10-23,Nico,Rosberg,rosberg,2,Mercedes
+2,Mexican Grand Prix,2016,19,2016-10-30,Nico,Rosberg,rosberg,2,Mercedes
+2,Brazilian Grand Prix,2016,20,2016-11-13,Nico,Rosberg,rosberg,2,Mercedes
+2,Abu Dhabi Grand Prix,2016,21,2016-11-27,Nico,Rosberg,rosberg,2,Mercedes
+2,Australian Grand Prix,2017,1,2017-03-26,Lewis,Hamilton,hamilton,1,Mercedes
+2,Chinese Grand Prix,2017,2,2017-04-09,Sebastian,Vettel,vettel,2,Ferrari
+2,Bahrain Grand Prix,2017,3,2017-04-16,Lewis,Hamilton,hamilton,2,Mercedes
+2,Russian Grand Prix,2017,4,2017-04-30,Sebastian,Vettel,vettel,1,Ferrari
+2,Spanish Grand Prix,2017,5,2017-05-14,Sebastian,Vettel,vettel,2,Ferrari
+2,Monaco Grand Prix,2017,6,2017-05-28,Kimi,Räikkönen,raikkonen,1,Ferrari
+2,Canadian Grand Prix,2017,7,2017-06-11,Valtteri,Bottas,bottas,3,Mercedes
+2,Azerbaijan Grand Prix,2017,8,2017-06-25,Valtteri,Bottas,bottas,2,Mercedes
+2,Austrian Grand Prix,2017,9,2017-07-09,Sebastian,Vettel,vettel,2,Ferrari
+2,British Grand Prix,2017,10,2017-07-16,Valtteri,Bottas,bottas,9,Mercedes
+2,Hungarian Grand Prix,2017,11,2017-07-30,Kimi,Räikkönen,raikkonen,2,Ferrari
+2,Belgian Grand Prix,2017,12,2017-08-27,Sebastian,Vettel,vettel,2,Ferrari
+2,Italian Grand Prix,2017,13,2017-09-03,Valtteri,Bottas,bottas,4,Mercedes
+2,Singapore Grand Prix,2017,14,2017-09-17,Daniel,Ricciardo,ricciardo,3,Red Bull
+2,Malaysian Grand Prix,2017,15,2017-10-01,Lewis,Hamilton,hamilton,1,Mercedes
+2,Japanese Grand Prix,2017,16,2017-10-08,Max,Verstappen,max_verstappen,4,Red Bull
+2,United States Grand Prix,2017,17,2017-10-22,Sebastian,Vettel,vettel,2,Ferrari
+2,Mexican Grand Prix,2017,18,2017-10-29,Valtteri,Bottas,bottas,4,Mercedes
+2,Brazilian Grand Prix,2017,19,2017-11-12,Valtteri,Bottas,bottas,1,Mercedes
+2,Abu Dhabi Grand Prix,2017,20,2017-11-26,Lewis,Hamilton,hamilton,2,Mercedes
+2,Australian Grand Prix,2018,1,2018-03-25,Lewis,Hamilton,hamilton,1,Mercedes
+2,Bahrain Grand Prix,2018,2,2018-04-08,Valtteri,Bottas,bottas,3,Mercedes
+2,Chinese Grand Prix,2018,3,2018-04-15,Valtteri,Bottas,bottas,3,Mercedes
+2,Azerbaijan Grand Prix,2018,4,2018-04-29,Kimi,Räikkönen,raikkonen,6,Ferrari
+2,Spanish Grand Prix,2018,5,2018-05-13,Valtteri,Bottas,bottas,2,Mercedes
+2,Monaco Grand Prix,2018,6,2018-05-27,Sebastian,Vettel,vettel,2,Ferrari
+2,Canadian Grand Prix,2018,7,2018-06-10,Valtteri,Bottas,bottas,2,Mercedes
+2,French Grand Prix,2018,8,2018-06-24,Max,Verstappen,max_verstappen,4,Red Bull
+2,Austrian Grand Prix,2018,9,2018-07-01,Kimi,Räikkönen,raikkonen,3,Ferrari
+2,British Grand Prix,2018,10,2018-07-08,Lewis,Hamilton,hamilton,1,Mercedes
+2,German Grand Prix,2018,11,2018-07-22,Valtteri,Bottas,bottas,2,Mercedes
+2,Hungarian Grand Prix,2018,12,2018-07-29,Sebastian,Vettel,vettel,4,Ferrari
+2,Belgian Grand Prix,2018,13,2018-08-26,Lewis,Hamilton,hamilton,1,Mercedes
+2,Italian Grand Prix,2018,14,2018-09-02,Kimi,Räikkönen,raikkonen,1,Ferrari
+2,Singapore Grand Prix,2018,15,2018-09-16,Max,Verstappen,max_verstappen,2,Red Bull
+2,Russian Grand Prix,2018,16,2018-09-30,Valtteri,Bottas,bottas,1,Mercedes
+2,Japanese Grand Prix,2018,17,2018-10-07,Valtteri,Bottas,bottas,2,Mercedes
+2,United States Grand Prix,2018,18,2018-10-21,Max,Verstappen,max_verstappen,18,Red Bull
+2,Mexican Grand Prix,2018,19,2018-10-28,Sebastian,Vettel,vettel,4,Ferrari
+2,Brazilian Grand Prix,2018,20,2018-11-11,Max,Verstappen,max_verstappen,5,Red Bull
+2,Abu Dhabi Grand Prix,2018,21,2018-11-25,Sebastian,Vettel,vettel,3,Ferrari
+3,Australian Grand Prix,2015,1,2015-03-15,Sebastian,Vettel,vettel,4,Ferrari
+3,Malaysian Grand Prix,2015,2,2015-03-29,Nico,Rosberg,rosberg,3,Mercedes
+3,Chinese Grand Prix,2015,3,2015-04-12,Sebastian,Vettel,vettel,3,Ferrari
+3,Bahrain Grand Prix,2015,4,2015-04-19,Nico,Rosberg,rosberg,3,Mercedes
+3,Spanish Grand Prix,2015,5,2015-05-10,Sebastian,Vettel,vettel,3,Ferrari
+3,Monaco Grand Prix,2015,6,2015-05-24,Lewis,Hamilton,hamilton,1,Mercedes
+3,Canadian Grand Prix,2015,7,2015-06-07,Valtteri,Bottas,bottas,4,Williams
+3,Austrian Grand Prix,2015,8,2015-06-21,Felipe,Massa,massa,4,Williams
+3,British Grand Prix,2015,9,2015-07-05,Sebastian,Vettel,vettel,6,Ferrari
+3,Hungarian Grand Prix,2015,10,2015-07-26,Daniel,Ricciardo,ricciardo,4,Red Bull
+3,Belgian Grand Prix,2015,11,2015-08-23,Romain,Grosjean,grosjean,9,Lotus F1
+3,Italian Grand Prix,2015,12,2015-09-06,Felipe,Massa,massa,5,Williams
+3,Singapore Grand Prix,2015,13,2015-09-20,Kimi,Räikkönen,raikkonen,3,Ferrari
+3,Japanese Grand Prix,2015,14,2015-09-27,Sebastian,Vettel,vettel,4,Ferrari
+3,Russian Grand Prix,2015,15,2015-10-11,Sergio,Pérez,perez,7,Force India
+3,United States Grand Prix,2015,16,2015-10-25,Sebastian,Vettel,vettel,13,Ferrari
+3,Mexican Grand Prix,2015,17,2015-11-01,Valtteri,Bottas,bottas,6,Williams
+3,Brazilian Grand Prix,2015,18,2015-11-15,Sebastian,Vettel,vettel,3,Ferrari
+3,Abu Dhabi Grand Prix,2015,19,2015-11-29,Kimi,Räikkönen,raikkonen,3,Ferrari
+3,Australian Grand Prix,2016,1,2016-03-20,Sebastian,Vettel,vettel,3,Ferrari
+3,Bahrain Grand Prix,2016,2,2016-04-03,Lewis,Hamilton,hamilton,1,Mercedes
+3,Chinese Grand Prix,2016,3,2016-04-17,Daniil,Kvyat,kvyat,6,Red Bull
+3,Russian Grand Prix,2016,4,2016-05-01,Kimi,Räikkönen,raikkonen,3,Ferrari
+3,Spanish Grand Prix,2016,5,2016-05-15,Sebastian,Vettel,vettel,6,Ferrari
+3,Monaco Grand Prix,2016,6,2016-05-29,Sergio,Pérez,perez,7,Force India
+3,Canadian Grand Prix,2016,7,2016-06-12,Valtteri,Bottas,bottas,7,Williams
+3,European Grand Prix,2016,8,2016-06-19,Sergio,Pérez,perez,7,Force India
+3,Austrian Grand Prix,2016,9,2016-07-03,Kimi,Räikkönen,raikkonen,4,Ferrari
+3,British Grand Prix,2016,10,2016-07-10,Nico,Rosberg,rosberg,2,Mercedes
+3,Hungarian Grand Prix,2016,11,2016-07-24,Daniel,Ricciardo,ricciardo,3,Red Bull
+3,German Grand Prix,2016,12,2016-07-31,Max,Verstappen,max_verstappen,4,Red Bull
+3,Belgian Grand Prix,2016,13,2016-08-28,Lewis,Hamilton,hamilton,21,Mercedes
+3,Italian Grand Prix,2016,14,2016-09-04,Sebastian,Vettel,vettel,3,Ferrari
+3,Singapore Grand Prix,2016,15,2016-09-18,Lewis,Hamilton,hamilton,3,Mercedes
+3,Malaysian Grand Prix,2016,16,2016-10-02,Nico,Rosberg,rosberg,2,Mercedes
+3,Japanese Grand Prix,2016,17,2016-10-09,Lewis,Hamilton,hamilton,2,Mercedes
+3,United States Grand Prix,2016,18,2016-10-23,Daniel,Ricciardo,ricciardo,3,Red Bull
+3,Mexican Grand Prix,2016,19,2016-10-30,Daniel,Ricciardo,ricciardo,4,Red Bull
+3,Brazilian Grand Prix,2016,20,2016-11-13,Max,Verstappen,max_verstappen,4,Red Bull
+3,Abu Dhabi Grand Prix,2016,21,2016-11-27,Sebastian,Vettel,vettel,5,Ferrari
+3,Australian Grand Prix,2017,1,2017-03-26,Valtteri,Bottas,bottas,3,Mercedes
+3,Chinese Grand Prix,2017,2,2017-04-09,Max,Verstappen,max_verstappen,16,Red Bull
+3,Bahrain Grand Prix,2017,3,2017-04-16,Valtteri,Bottas,bottas,1,Mercedes
+3,Russian Grand Prix,2017,4,2017-04-30,Kimi,Räikkönen,raikkonen,2,Ferrari
+3,Spanish Grand Prix,2017,5,2017-05-14,Daniel,Ricciardo,ricciardo,6,Red Bull
+3,Monaco Grand Prix,2017,6,2017-05-28,Daniel,Ricciardo,ricciardo,5,Red Bull
+3,Canadian Grand Prix,2017,7,2017-06-11,Daniel,Ricciardo,ricciardo,6,Red Bull
+3,Azerbaijan Grand Prix,2017,8,2017-06-25,Lance,Stroll,stroll,8,Williams
+3,Austrian Grand Prix,2017,9,2017-07-09,Daniel,Ricciardo,ricciardo,4,Red Bull
+3,British Grand Prix,2017,10,2017-07-16,Kimi,Räikkönen,raikkonen,2,Ferrari
+3,Hungarian Grand Prix,2017,11,2017-07-30,Valtteri,Bottas,bottas,3,Mercedes
+3,Belgian Grand Prix,2017,12,2017-08-27,Daniel,Ricciardo,ricciardo,6,Red Bull
+3,Italian Grand Prix,2017,13,2017-09-03,Sebastian,Vettel,vettel,6,Ferrari
+3,Singapore Grand Prix,2017,14,2017-09-17,Valtteri,Bottas,bottas,6,Mercedes
+3,Malaysian Grand Prix,2017,15,2017-10-01,Daniel,Ricciardo,ricciardo,4,Red Bull
+3,Japanese Grand Prix,2017,16,2017-10-08,Daniel,Ricciardo,ricciardo,3,Red Bull
+3,United States Grand Prix,2017,17,2017-10-22,Kimi,Räikkönen,raikkonen,5,Ferrari
+3,Mexican Grand Prix,2017,18,2017-10-29,Kimi,Räikkönen,raikkonen,5,Ferrari
+3,Brazilian Grand Prix,2017,19,2017-11-12,Kimi,Räikkönen,raikkonen,3,Ferrari
+3,Abu Dhabi Grand Prix,2017,20,2017-11-26,Sebastian,Vettel,vettel,3,Ferrari
+3,Australian Grand Prix,2018,1,2018-03-25,Kimi,Räikkönen,raikkonen,2,Ferrari
+3,Bahrain Grand Prix,2018,2,2018-04-08,Lewis,Hamilton,hamilton,9,Mercedes
+3,Chinese Grand Prix,2018,3,2018-04-15,Kimi,Räikkönen,raikkonen,2,Ferrari
+3,Azerbaijan Grand Prix,2018,4,2018-04-29,Sergio,Pérez,perez,8,Force India
+3,Spanish Grand Prix,2018,5,2018-05-13,Max,Verstappen,max_verstappen,5,Red Bull
+3,Monaco Grand Prix,2018,6,2018-05-27,Lewis,Hamilton,hamilton,3,Mercedes
+3,Canadian Grand Prix,2018,7,2018-06-10,Max,Verstappen,max_verstappen,3,Red Bull
+3,French Grand Prix,2018,8,2018-06-24,Kimi,Räikkönen,raikkonen,6,Ferrari
+3,Austrian Grand Prix,2018,9,2018-07-01,Sebastian,Vettel,vettel,6,Ferrari
+3,British Grand Prix,2018,10,2018-07-08,Kimi,Räikkönen,raikkonen,3,Ferrari
+3,German Grand Prix,2018,11,2018-07-22,Kimi,Räikkönen,raikkonen,3,Ferrari
+3,Hungarian Grand Prix,2018,12,2018-07-29,Kimi,Räikkönen,raikkonen,3,Ferrari
+3,Belgian Grand Prix,2018,13,2018-08-26,Max,Verstappen,max_verstappen,7,Red Bull
+3,Italian Grand Prix,2018,14,2018-09-02,Valtteri,Bottas,bottas,4,Mercedes
+3,Singapore Grand Prix,2018,15,2018-09-16,Sebastian,Vettel,vettel,3,Ferrari
+3,Russian Grand Prix,2018,16,2018-09-30,Sebastian,Vettel,vettel,3,Ferrari
+3,Japanese Grand Prix,2018,17,2018-10-07,Max,Verstappen,max_verstappen,3,Red Bull
+3,United States Grand Prix,2018,18,2018-10-21,Lewis,Hamilton,hamilton,1,Mercedes
+3,Mexican Grand Prix,2018,19,2018-10-28,Kimi,Räikkönen,raikkonen,6,Ferrari
+3,Brazilian Grand Prix,2018,20,2018-11-11,Kimi,Räikkönen,raikkonen,4,Ferrari
+3,Abu Dhabi Grand Prix,2018,21,2018-11-25,Max,Verstappen,max_verstappen,6,Red Bull

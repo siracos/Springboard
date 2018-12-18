@@ -1,0 +1,1 @@
+This folder contains  my workd for this F1 project.  The goal of this project is to if significant rule changes have any influence on competitiveness?
